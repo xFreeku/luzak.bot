@@ -1,0 +1,2 @@
+# luzak.bot
+ bot
